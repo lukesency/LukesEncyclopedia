@@ -3,6 +3,8 @@ TR Sosyal medya hesaplarıma aşağıdaki yönergelerden ulaşabilirsiniz; / ING
 
 Instagram: https://www.instagram.com/stinercarl/
 
+GitHub: https://github.com/CarlStiner/CarlsNotebook/tree/main/Art
+
 Reddit: https://www.reddit.com/user/Jr-Seeger
 
 OpenSea: https://opensea.io/CarlStiner
