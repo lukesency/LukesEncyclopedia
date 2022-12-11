@@ -1,5 +1,5 @@
 # CarlsNotebook
-TR Aşağıdaki bağlantılardan tüm sosyal medya hesaplarıma ulaşabilirsiniz / ING You can reach my social media accounts from the following urls;
+TR Sosyal medya hesaplarıma aşağıdaki yönergelerden ulaşabilirsiniz; / ING You can reach my social media accounts from the following instructions;
 
 Instagram: https://www.instagram.com/stinercarl/
 
