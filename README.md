@@ -8,3 +8,5 @@ Reddit: https://www.reddit.com/user/Jr-Seeger
 OpenSea: https://opensea.io/CarlStiner
 
 Spotify: https://open.spotify.com/user/hazaro%C4%9Flu?si=b6401f345ca44fe4
+
+Discord: Carl Stiner#1088
