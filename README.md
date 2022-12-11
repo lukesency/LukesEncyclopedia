@@ -1,5 +1,12 @@
 # CarlsNotebook
-Daha fazlasına Reddit ve Twitter hesaplarımdan ulaşabilirsiniz. Bu hesaplarım;
-- https://twitter.com/StinerCarl
-- https://twitter.com/justragcarl
-- https://www.reddit.com/user/Jr-Seeger
+TR Sosyal medya hesaplarıma aşağıdaki yönergelerden ulaşabilirsiniz; / ING You can reach my social media accounts from the following instructions;
+
+Instagram: https://www.instagram.com/stinercarl/
+
+Reddit: https://www.reddit.com/user/Jr-Seeger
+
+OpenSea: https://opensea.io/CarlStiner
+
+Spotify: https://open.spotify.com/user/hazaro%C4%9Flu?si=b6401f345ca44fe4
+
+Discord: Carl Stiner#1088
