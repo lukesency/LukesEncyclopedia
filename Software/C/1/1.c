@@ -17,15 +17,12 @@ int main()
         double inner_sum = 0;
         for (j = 1; j <= num_j; j++)
         {
-            double term = 1.0 / (j*j + 3);
-            printf("Term for i = %d, j = %d: %.4f\n", i, j, term);
-            inner_sum += term;
+            inner_sum += 1.0 / (j*j + 3);
         }
-        printf("Inner sum for i = %d: %.4f\n", i, inner_sum);
         result += inner_sum;
     }
 
-    printf("Result: %.4f\n", result);
+    printf("%.2f\n", result);
     system("pause");
     return 0;
 }
